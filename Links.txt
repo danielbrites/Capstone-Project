@@ -1,6 +1,0 @@
-http://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant
-
-https://www.kaggle.com/datasets
-
-http://commoncrawl.org/the-data/get-started/
-
